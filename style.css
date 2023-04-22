@@ -1,0 +1,31 @@
+.text-red{
+    color: red;
+}
+body{
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+label{
+    text-transform: capitalize;
+    color: blanchedalmond;
+    background: transparent;
+}
+
+button{
+    background-color: chartreuse;
+    color: crimson;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.heading-1{
+    background-color: red;
+    font-size: 500%;
+    color: black;
+    padding: 16px;
+    border: 20px solid yellow;
+    width: 25%;
+}
